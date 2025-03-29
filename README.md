@@ -1,69 +1,70 @@
-# Welcome to your Lovable project
 
-## Project info
+# Developer Portfolio Website
 
-**URL**: https://lovable.dev/projects/f28f676d-e3d3-4f31-a78d-01aed7d15440
+A clean, modern portfolio website built with HTML, CSS, and JavaScript. This portfolio is designed to showcase your projects, skills, and experience in a professional manner.
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+- **Responsive Design**: Looks great on all devices (desktop, tablet, mobile)
+- **Modern UI**: Clean and professional design
+- **Easy to Customize**: Simple structure that's easy to modify
+- **Performance Optimized**: Fast loading and smooth animations
+- **Contact Form**: Ready to be connected to a backend
 
-**Use Lovable**
+## Sections
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f28f676d-e3d3-4f31-a78d-01aed7d15440) and start prompting.
+- Hero/Introduction
+- About Me
+- Skills & Services
+- Project Portfolio
+- Work Experience & Education
+- Contact Information
 
-Changes made via Lovable will be committed automatically to this repo.
+## Usage
 
-**Use your preferred IDE**
+1. Clone this repository
+2. Customize the content in the HTML file
+3. Modify the colors and styles in the CSS file
+4. Update the form handling in the JavaScript file
+5. Deploy to your preferred hosting service
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Customization
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Colors
 
-Follow these steps:
+The main colors can be changed by editing the CSS variables in the `:root` selector in the `styles.css` file.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Content
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Replace the placeholder content in the HTML file with your own information:
+- Your name and title
+- About me description
+- Skills and expertise
+- Project details and images
+- Work experience and education
+- Contact information
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Images
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Replace the placeholder images with your own:
+- Profile photo
+- Project screenshots
+- Any other imagery
 
-**Edit a file directly in GitHub**
+## Deployment
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This site can be deployed to any static site hosting platform such as:
+- GitHub Pages
+- Netlify
+- Vercel
+- Render
 
-**Use GitHub Codespaces**
+## License
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Feel free to use this template for your personal portfolio.
 
-## What technologies are used for this project?
+## Credits
 
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f28f676d-e3d3-4f31-a78d-01aed7d15440) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+- [Font Awesome](https://fontawesome.com/) - Icons
+- [Google Fonts](https://fonts.google.com/) - Inter font family
+- [Unsplash](https://unsplash.com/) - Stock images
